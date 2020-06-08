@@ -21,13 +21,13 @@ export default class TwitterKlon extends Component{
 
 componentWillMount(){
   const firebaseConfig = {
-    apiKey: "AIzaSyCzXhshLGhjag7Wu15SWGF7NvZJs707Dfw",
-    authDomain: "twitterklon-e3017.firebaseapp.com",
-    databaseURL: "https://twitterklon-e3017.firebaseio.com",
-    projectId: "twitterklon-e3017",
+    apiKey: *************
+    authDomain: ****************
+    databaseURL: ************
+    projectId: ***********
     storageBucket: "",
-    messagingSenderId: "567828089178",
-    appId: "1:567828089178:web:27cdf95022041836"
+    messagingSenderId: **********
+    appId:**********
   };
   firebase.initializeApp(firebaseConfig);
 }
